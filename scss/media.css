@@ -1,0 +1,816 @@
+@media (max-width: 1620px) {
+  footer .info .lists {
+    width: 750px;
+  }
+  main .playlists .wrapper {
+    width: 1300px;
+  }
+  main .playlists .wrapper .music {
+    width: 650px;
+  }
+  main .questions .wrapper {
+    width: 1300px;
+  }
+  main .questions .you-questions {
+    width: 1300px;
+    margin: 0 auto;
+    padding-left: 30px;
+  }
+  main .questions h2 {
+    margin-left: 32px;
+  }
+  footer .info .wrapper {
+    width: 1300px;
+  }
+  main .love .wrapper .wrapper-love {
+    width: 40%;
+  }
+  main .love .wrapper {
+    width: 1300px;
+  }
+  main .brands .wrapper {
+    width: 1300px;
+  }
+  header .banner .wrapper {
+    width: 1300px;
+  }
+  header .hello .wrapper {
+    width: 1300px;
+  }
+}
+@media (max-width: 1320px) {
+  header .banner .wrapper {
+    width: 1100px;
+  }
+  header .hello .wrapper {
+    width: 1100px;
+  }
+  main .brands .wrapper {
+    width: 1100px;
+  }
+  main .love .wrapper {
+    width: 1100px;
+  }
+  main .love .wrapper .wrapper-love p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  main .love .wrapper .wrapper-love h2 {
+    font-size: 34px;
+    line-height: 45px;
+  }
+  main .love .wrapper .wrapper-love {
+    padding: 0 30px;
+  }
+  main .playlists .wrapper .playlists-info {
+    width: 380px;
+  }
+  main .playlists .wrapper .playlists-info h2 {
+    font-size: 34px;
+    line-height: 45px;
+  }
+  main .playlists .wrapper .playlists-info p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  main .playlists .wrapper .playlists-info a {
+    font-size: 18px;
+    line-height: 18px;
+  }
+  main .love .wrapper .wrapper-love a {
+    font-size: 18px;
+    line-height: 18px;
+  }
+  main .questions .wrapper {
+    width: 1100px;
+  }
+  main .questions h2 {
+    font-size: 34px;
+  }
+  main .questions p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  main .questions h3 {
+    font-size: 26px;
+    line-height: 28px;
+  }
+  main .questions .you-questions-one, main .questions .you-questions-two, main .questions .you-questions-three, main .questions .you-questions-four {
+    width: 450px;
+  }
+  main .questions .you-questions {
+    width: 1100px;
+  }
+  footer .info .radiohead {
+    width: 300px;
+  }
+  footer .info .radiohead p {
+    font-size: 14px;
+    line-height: 18px;
+    width: 300px;
+  }
+  footer .info li {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 18px;
+  }
+  footer .info h4 {
+    font-size: 26px;
+    line-height: 30px;
+    margin: 40px auto 27px;
+  }
+  footer .info .wrapper {
+    width: 1100px;
+    height: 350px;
+  }
+  main .playlists .wrapper {
+    width: 1100px;
+  }
+}
+@media (max-width: 1115px) {
+  header .banner .wrapper {
+    width: 950px;
+  }
+  header .hello .wrapper {
+    width: 950px;
+  }
+  main .brands .wrapper {
+    width: 950px;
+  }
+  main .love .wrapper {
+    width: 950px;
+  }
+  main .love .wrapper .wrapper-img img {
+    width: 200px;
+  }
+  main .love .wrapper .wrapper-img {
+    margin: 30px auto;
+    display: grid;
+    width: 50%;
+    width: 660px;
+    height: 430px;
+  }
+  main .love {
+    height: 500px;
+  }
+  main .playlists .wrapper {
+    width: 950px;
+    height: 500px;
+  }
+  main .playlists .wrapper .music img {
+    width: 200px;
+    height: 330px;
+  }
+  main .playlists .wrapper .music {
+    width: 500px;
+  }
+  main .questions .you-questions {
+    width: 950px;
+  }
+  main .questions .wrapper {
+    width: 950px;
+    height: 500px;
+  }
+  main .questions h2 {
+    margin-bottom: 20px;
+  }
+  footer .info .wrapper {
+    width: 950px;
+    height: 320px;
+  }
+  main .questions h3 .left {
+    height: 30px;
+  }
+}
+@media (max-width: 970px) {
+  .banner__nav {
+    display: none !important;
+  }
+  header .banner .wrapper {
+    height: 60px;
+  }
+  header .main .unit {
+    width: 470px;
+    margin: 0 auto;
+  }
+  .menu {
+    display: block;
+  }
+  header .hello .wrapper {
+    width: 700px;
+    margin: 0 auto;
+  }
+  header .hello .wrapper .info {
+    width: 510px;
+    margin: 120px auto 0;
+  }
+  header .hello .wrapper .info h2 {
+    font-size: 38px;
+    line-height: 45px;
+  }
+  main .brands .wrapper {
+    display: grid;
+    grid-template-areas: "one two three" "four five six ";
+    align-items: center;
+    justify-content: center;
+    grid-column-gap: 30px;
+    grid-row-gap: 10px;
+    width: 600px;
+  }
+  main .brands {
+    height: 170px;
+  }
+  main .love .wrapper {
+    width: 700px;
+  }
+  main .love .wrapper .wrapper-img img {
+    width: 150px;
+  }
+  main .love .wrapper .wrapper-img {
+    margin: 50px auto;
+    display: grid;
+    width: 50%;
+    width: 510px;
+    height: 300px;
+  }
+  main .love {
+    height: 450px;
+  }
+  main .love .wrapper .wrapper-love h2 {
+    font-size: 26px;
+    line-height: 35px;
+    margin-bottom: 15px;
+  }
+  main .love .wrapper .wrapper-love p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  main .love .wrapper .wrapper-love a {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  main .love .wrapper .wrapper-love a svg {
+    margin-right: 7px;
+  }
+  main .playlists .wrapper {
+    width: 700px;
+    height: 450px;
+  }
+  main .playlists .wrapper .playlists-info h2 {
+    font-size: 26px;
+    line-height: 35px;
+    margin-bottom: 30px;
+  }
+  main .playlists .wrapper .playlists-info p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  main .playlists .wrapper .playlists-info a {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  main .playlists .wrapper .playlists-info a svg {
+    margin-right: 7px;
+  }
+  main .playlists .wrapper .music img {
+    width: 160px;
+    height: 264px;
+  }
+  main .playlists .wrapper .music {
+    width: 390px;
+  }
+  main .playlists .wrapper .playlists-info {
+    width: 250px;
+  }
+  main .questions .wrapper {
+    width: 700px;
+    height: 450px;
+  }
+  main .questions .you-questions {
+    width: 700px;
+  }
+  main .questions h3 {
+    font-size: 20px;
+    line-height: 22px;
+    margin-bottom: 15px;
+  }
+  main .questions p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  main .questions .you-questions-one, main .questions .you-questions-two, main .questions .you-questions-three, main .questions .you-questions-four {
+    width: 300px;
+  }
+  main .questions h2 {
+    font-size: 26px;
+    line-height: 35px;
+    margin-bottom: 30px;
+  }
+  footer .info .wrapper {
+    width: 700px;
+  }
+  footer .info .radiohead p {
+    font-size: 12px;
+    line-height: 15px;
+    width: 250px;
+  }
+  footer .info h4 {
+    font-size: 20px;
+    line-height: 24px;
+    margin: 40px auto 27px;
+  }
+  footer .info li {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  header .banner .wrapper {
+    width: 700px;
+  }
+  header {
+    height: 600px;
+    transition: 0.7s;
+  }
+  footer .info .radiohead-icon {
+    margin: 28px 0 25px 10px;
+    width: 150px;
+  }
+}
+@media (max-width: 715px) {
+  header .banner .wrapper {
+    width: 450px;
+  }
+  header .hello .wrapper .info {
+    width: 450px;
+    margin: 120px auto 0;
+  }
+  main .brands .wrapper {
+    display: grid;
+    grid-template-areas: "one two three" "four five six ";
+    align-items: center;
+    justify-content: center;
+    grid-column-gap: 40px;
+    grid-row-gap: 0px;
+    width: 450px;
+  }
+  .playstation {
+    width: 110px;
+  }
+  .blackberry {
+    width: 120px;
+  }
+  .redbull {
+    width: 80px;
+  }
+  .tiktok {
+    width: 80px;
+  }
+  .sennhiser {
+    width: 120px;
+  }
+  main .love .wrapper {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+  }
+  main .love {
+    height: 600px;
+  }
+  main .love .wrapper .wrapper-love {
+    margin: 0 auto;
+  }
+  main .love .wrapper .wrapper-love h2 {
+    margin-top: 10px;
+    width: 280px;
+    margin-left: -65px;
+  }
+  main .love .wrapper .wrapper-love p {
+    width: 400px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-left: -120px;
+  }
+  main .love .wrapper .wrapper-love a {
+    width: 200px;
+    margin-left: 0px;
+  }
+  main .playlists .wrapper {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+  }
+  main .playlists .wrapper h2 {
+    margin-top: 10px;
+    width: 400px;
+    text-align: center;
+  }
+  main .playlists .wrapper p {
+    width: 400px;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-left: -65px;
+  }
+  main .playlists .wrapper a {
+    width: 400px;
+    margin-left: 50px;
+  }
+  main .questions .wrapper {
+    width: 450px;
+    height: 450px;
+  }
+  main .questions h2 {
+    text-align: center;
+  }
+  main .questions .you-questions {
+    width: 450px;
+    padding-left: 0px;
+  }
+  main .questions .you-questions-one, main .questions .you-questions-two, main .questions .you-questions-three, main .questions .you-questions-four {
+    width: 220px;
+  }
+  main .questions p {
+    text-align: center;
+  }
+  main .questions h3 {
+    text-align: center;
+  }
+  main .questions h3 .left {
+    display: none;
+  }
+  footer .info .wrapper {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+  }
+  footer .info .radiohead {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  footer .info .radiohead p {
+    text-align: center;
+    width: 300px;
+  }
+  footer .info .radiohead-icon {
+    margin: 30px auto 20px;
+    width: 150px;
+  }
+  footer .info .lists {
+    width: 450px;
+  }
+  footer .info h4 {
+    margin: 20px auto 23px;
+    text-align: center;
+  }
+  footer .info li {
+    text-align: center;
+  }
+  main .playlists .wrapper .playlists-info h2 {
+    text-align: center;
+    padding-right: 0;
+    margin-left: -40px;
+  }
+  main .love .wrapper .wrapper-img {
+    margin: 30px auto;
+    width: 450px;
+  }
+  main .love .wrapper .wrapper-img img {
+    width: 130px;
+  }
+  main .love {
+    height: 540px;
+  }
+  main .playlists .wrapper .playlists-info a {
+    width: 200px;
+    text-align: center;
+    justify-content: center;
+    padding-left: 25px;
+  }
+  header .hello .wrapper {
+    width: 450px;
+  }
+  header .hello .wrapper .info h2 {
+    text-align: center;
+  }
+  header .hello .wrapper .free {
+    width: 340px;
+    height: 80px;
+    display: grid;
+    grid-row: 20;
+    grid-template-areas: "one one " "two three ";
+    align-items: center;
+    margin: 0 auto;
+  }
+  header .hello .wrapper .free .one {
+    width: 340px;
+    height: 55px;
+    margin-bottom: 25px;
+  }
+  main .playlists .wrapper .playlists-info {
+    width: 330px;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 475px) {
+  header .banner .wrapper {
+    width: 350px;
+  }
+  header .hello .wrapper .info {
+    width: 350px;
+    margin: -20px auto 0;
+  }
+  header .hello .wrapper {
+    width: 350px;
+  }
+  main .brands .wrapper {
+    width: 350px;
+    height: 120px;
+  }
+  .playstation {
+    width: 80px;
+  }
+  .blackberry {
+    width: 80px;
+  }
+  .redbull {
+    width: 50px;
+  }
+  .tiktok {
+    width: 50px;
+  }
+  .sennhiser {
+    width: 85px;
+  }
+  main .brands {
+    height: 120px;
+  }
+  main .love .wrapper .wrapper-img {
+    margin: 30px auto;
+    width: 350px;
+  }
+  main .love .wrapper .wrapper-img {
+    grid-template-areas: "one two" "three four" "five six";
+  }
+  main .love {
+    height: 700px;
+  }
+  main .love .wrapper {
+    width: 350px;
+  }
+  main .love .wrapper .wrapper-love {
+    margin: 160px auto 0;
+  }
+  main .love .wrapper .wrapper-love h2 {
+    margin-left: -85px;
+  }
+  main .love .wrapper .wrapper-love p {
+    width: 350px;
+    margin-left: -135px;
+  }
+  main .love .wrapper .wrapper-love a {
+    margin-left: -30px;
+  }
+  main .playlists .wrapper .music {
+    width: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  main .playlists .wrapper {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    height: 860px;
+  }
+  main .playlists .wrapper .music img {
+    margin-bottom: 40px;
+  }
+  main .playlists .wrapper .playlists-info p {
+    width: 330px;
+    margin: 0 auto;
+  }
+  main .playlists .wrapper .playlists-info h2 {
+    width: 330px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+  main .questions .wrapper {
+    width: 250px;
+    height: 850px;
+    margin: 0 auto;
+  }
+  main .questions .you-questions {
+    display: grid;
+    grid-template-areas: "one" "two" "three" "four";
+    margin-left: 200px;
+    width: 250px;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  footer .info .wrapper {
+    width: 350px;
+    height: 600px;
+    justify-content: start;
+  }
+  footer .info .lists {
+    display: grid;
+    grid-template-areas: "one two" "three four";
+    width: 250px;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 365px) {
+  header .hello .wrapper .info h2 {
+    width: 300px;
+    font-size: 33px;
+    line-height: 35px;
+  }
+  header .hello .wrapper .free {
+    width: 300px;
+    margin: 0 auto;
+  }
+  header .hello .wrapper .free .one {
+    width: 300px;
+    height: 55px;
+    margin-bottom: 25px;
+  }
+  main .brands .wrapper {
+    width: 300px;
+  }
+  main .love .wrapper .wrapper-img {
+    width: 300px;
+  }
+  main .love .wrapper {
+    width: 300px;
+  }
+  main .love .wrapper .wrapper-love h2 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  main .love .wrapper .wrapper-love p {
+    font-size: 12px;
+    line-height: 14px;
+    width: 300px;
+    margin-left: -120px;
+  }
+  main .playlists .wrapper .playlists-info h2 {
+    width: 300px;
+    font-size: 22px;
+    line-height: 28px;
+    margin-left: 0px;
+  }
+  main .playlists .wrapper .playlists-info p {
+    width: 300px;
+    font-size: 12px;
+    line-height: 14px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+  }
+  main .playlists .wrapper {
+    width: 300px;
+  }
+  main .playlists .wrapper .playlists-info a {
+    padding-left: 0px;
+  }
+  main .questions h2 {
+    width: 300px;
+    font-size: 22px;
+    line-height: 28px;
+    margin-left: -20px;
+    margin-bottom: 70px;
+  }
+  main .questions .wrapper {
+    height: 750px;
+  }
+  header .hello .wrapper .info {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+  }
+  header .hello .wrapper .free .one {
+    width: 290px;
+  }
+  header .hello .wrapper .free {
+    width: 290px;
+    margin: 0 auto;
+  }
+  header .hello .wrapper .free .three {
+    width: 140px;
+  }
+  header .hello .wrapper .free .two {
+    width: 130px;
+  }
+  footer .info .radiohead {
+    width: 290px;
+    margin-left: 5px;
+  }
+  footer .info .wrapper {
+    width: 300px;
+  }
+  main .playlists .wrapper .playlists-info {
+    width: 300px;
+  }
+  header .hello .wrapper {
+    width: 300px;
+  }
+  header .banner .wrapper .banner__logo .logo__two svg {
+    width: 180px;
+    margin-left: 10px;
+  }
+  header .banner .wrapper .banner__logo .my__logo svg {
+    width: 180px;
+    margin-left: 10px;
+  }
+  header .banner .wrapper {
+    width: 280px;
+  }
+}
+@-webkit-keyframes neon {
+  0% {
+    opacity: 1;
+  }
+  10% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  30% {
+    opacity: 1;
+  }
+  35% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 1;
+  }
+  46% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes neon {
+  0% {
+    opacity: 1;
+  }
+  10% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  30% {
+    opacity: 1;
+  }
+  35% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 1;
+  }
+  46% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 0;
+  }
+  65% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}/*# sourceMappingURL=media.css.map */

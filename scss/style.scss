@@ -6,8 +6,8 @@
    box-sizing: border-box;
    }
 
-   li {
-      cursor: pointer;
+   li{
+      cursor: default;
       }
 
    a {
@@ -27,9 +27,9 @@
       outline: none;
    }
 
-   ul, ol {
+   ul, ol, button, a {
       list-style-type: none;
-      cursor: pointer;
+      cursor: default;
    }
 
    .my__logo{
@@ -179,6 +179,7 @@ background-attachment: scroll;
          .nav-button{
             display: flex;
             align-items: center;
+            margin-left: 20px;
 
             button{
                // font-family: "Myanmar Khyay";
@@ -194,7 +195,8 @@ background-attachment: scroll;
                color: #7971E9;
                transition:  box-shadow 0.3s;
                &:hover{
-                  box-shadow: 0px 0px 7px #7971E9;
+                  box-shadow: 0px 0px 17px #7971E9;
+                  transition: 0.7s
                }
             }
             .sing__in{
@@ -214,19 +216,21 @@ background-attachment: scroll;
             a{
                display: inline-block;
                justify-content: center;
+               text-align: right;
                padding: 25px 0;
-               margin-right: 30px;
+               margin-left: 30px;
                font-weight: 400;
                font-size: 24px;
                line-height: 32px;
                text-transform: capitalize;
                color: #FFFFFF;
+               width: 100px;
 
                &:hover {   
-                  font-size: 30px;
+                  font-size: 28px;
                   color: #7f77e8;
                   filter: drop-shadow(0px 0px 5px #7f77e8);
-                  transition: 0.3s ease-in;
+                  transition: 0.4s ease-in;
                   -webkit-text-stroke: 1px #fff;
                }
 
@@ -273,7 +277,8 @@ header{
             background-color: #7971E9;
             color: #ffffff;
             &:hover{
-               box-shadow: 0px 0px 7px #7971E9;
+               box-shadow: 0px 0px 17px #7971E9;
+               transition: 0.7s
             }
          }
 
@@ -324,7 +329,7 @@ header{
             }
 
             p{
-               font-size: 9px;
+               font-size: 10px;
             }
 
             h4{
@@ -332,6 +337,15 @@ header{
             }
          }
       }
+   }
+
+   .free h4, .free p{
+      background: linear-gradient(45deg, #3186ab, #0ca826, #b41072);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-animation: gradient 10s ease infinite;
+      animation: gradient 10s ease infinite;
+      background-size: 400% 400%;
    }
 }
 
@@ -353,31 +367,31 @@ main{
          align-items: center;
 
          .playstation:hover path {
-            transition: 0.3s ease-in;
+            transition: 0.5s ease-in;
             fill: #000000;
             stroke: #ffffff;
       }
 
       .blackberry:hover path {
-         transition: 0.3s ease-in;
+         transition: 0.5s ease-in;
             fill: #ffffff;
             stroke: #000000;
       }
 
       .redbull:hover path {
-         transition: 0.3s ease-in;
+         transition: 0.5s ease-in;
             fill: #FF0C49;
             stroke:  #FFC800;
       }
 
    .tiktok:hover path {
-      transition: 0.3s ease-in;
+      transition: 0.5s ease-in;
             fill: #000000;
             stroke: #FE2C55;
       }
 
       .sennhiser:hover path {
-         transition: 0.3s ease-in;
+         transition: 0.5s ease-in;
             fill: #ffffff;
             stroke: #000000;
       }
@@ -460,7 +474,7 @@ main{
          img:hover{
             border: solid 1px #615aba ;
             box-shadow:0px 0px 25px #615aba;
-            transition: 0.5s;
+            transition: 0.7s;
          }
 
          img:active{
@@ -691,13 +705,13 @@ footer{
          margin: 0 auto;
 
          .instagram:hover path {
-            transition: 0.2s ease-in;
+            transition: 0.3s ease-in;
             fill: url(#gradient-instagram);
             // stroke: white;
          }
 
          .facebook:hover path {
-            transition: 0.2s ease-in;
+            transition: 0.3s ease-in;
             fill: #3b5998;
             // stroke: white;
          }
@@ -705,7 +719,7 @@ footer{
          .twitter:hover path {
             width: 120%;
             height: 120%;
-            transition: 0.2s ease-in;
+            transition: 0.3s ease-in;
             fill: #1D9BF0;
             // stroke: white;
          }

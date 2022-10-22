@@ -52,8 +52,6 @@ h2{
    margin-bottom: 50px;
 
    color: #7f77e8 !important;
-   filter: drop-shadow(0px 0px 5px #7f77e8);
-   transition: 0.3s ease-in;
    -webkit-text-stroke: 1px #fff;
 }
 
@@ -915,7 +913,8 @@ footer{
          background: rgba(0,0,0,0);
          color: #7971E9;
          &:hover{
-            box-shadow: 0px 0px 7px #7971E9;
+            box-shadow: 0px 0px 17px #7971E9;
+            transition: 0.7s
          }
       }
       .sing__in{

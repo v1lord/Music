@@ -49,8 +49,6 @@ h2 {
   line-height: 42px;
   margin-bottom: 50px;
   color: #7f77e8 !important;
-  filter: drop-shadow(0px 0px 5px #7f77e8);
-  transition: 0.3s ease-in;
   -webkit-text-stroke: 1px #fff;
 }
 
@@ -741,7 +739,8 @@ footer .network .wrapper .twitter:hover path {
   color: #7971E9;
 }
 .menu nav ul .nav-button button:hover {
-  box-shadow: 0px 0px 7px #7971E9;
+  box-shadow: 0px 0px 17px #7971E9;
+  transition: 0.7s;
 }
 .menu nav ul .nav-button .sing__in {
   margin-right: 20px;

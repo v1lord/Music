@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/earlyaccess/khyay.css);
 * {
   margin: 0;
   padding: 0;
@@ -35,7 +36,7 @@ ul, ol {
 }
 
 body {
-  font-family: "Myanmar Khyay";
+  font-family: "Khyay", sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21px;
@@ -169,7 +170,7 @@ header .banner .wrapper .nav-button {
   align-items: center;
 }
 header .banner .wrapper .nav-button button {
-  font-family: "Myanmar Khyay";
+  font-family: "Khyay", sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -713,7 +714,7 @@ footer .network .wrapper .twitter:hover path {
   align-items: center;
 }
 .menu nav ul .nav-button button {
-  font-family: "Myanmar Khyay";
+  font-family: "Khyay", sans-serif;
   margin-top: 60px;
   font-weight: 400;
   font-size: 20px;

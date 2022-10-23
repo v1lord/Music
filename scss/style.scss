@@ -1,5 +1,9 @@
-// @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Raleway:wght@400;700&display=swap');
-@import url(http://fonts.googleapis.com/earlyaccess/khyay.css);
+@font-face{
+font-family: "Myanmar-Myanmar-Khyay";
+src: url("Myanmar-Myanmar-Khyay.ttf.woff") format('Myanmar-Myanmar-Khyay');
+}
+
+
 *{
    margin: 0;
    padding: 0;
@@ -37,8 +41,8 @@
    }
 
 body{
-   // font-family: "Myanmar Khyay";
-   font-family: 'Khyay', sans-serif;
+   // font-family: "Myanmar Myanmar-Khyay";
+   font-family: 'Myanmar-Khyay', sans-serif;
    font-size: 18px;
    font-weight: 400;
    line-height: 21px;
@@ -180,8 +184,8 @@ background-attachment: scroll;
             margin-left: 20px;
 
             button{
-               // font-family: "Myanmar Khyay";
-               font-family: 'Khyay', sans-serif;
+               // font-family: "Myanmar Myanmar-Khyay";
+               font-family: 'Myanmar-Khyay', sans-serif;
                font-weight: 400;
                font-size: 20px;
                line-height: 24px;
@@ -552,6 +556,10 @@ main{
                border-radius: 10px; 
                box-shadow: 0px 0px 25px #615aba;
                // transition: 0.5s;
+               &:hover{
+                  border: solid 2px #6c66b3;
+                  transition: 0.2s;
+               }
             }
 
             img:active{
@@ -900,8 +908,8 @@ footer{
       align-items: center;
 
       button{
-         // font-family: "Myanmar Khyay";
-         font-family: 'Khyay', sans-serif;
+         // font-family: "Myanmar Myanmar-Khyay";
+         font-family: 'Myanmar-Khyay', sans-serif;
          margin-top: 60px;
          font-weight: 400;
          font-size: 20px;
@@ -1001,3 +1009,11 @@ footer{
       filter:drop-shadow(1px 1px 5px #7971E9);
       }
 }
+
+
+
+
+
+
+
+

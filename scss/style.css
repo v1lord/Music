@@ -1,4 +1,7 @@
-@import url(http://fonts.googleapis.com/earlyaccess/khyay.css);
+@font-face {
+  font-family: "Myanmar-Myanmar-Khyay";
+  src: url("Myanmar-Myanmar-Khyay.ttf.woff") format("Myanmar-Myanmar-Khyay");
+}
 * {
   margin: 0;
   padding: 0;
@@ -36,7 +39,7 @@ ul, ol, button, a {
 }
 
 body {
-  font-family: "Khyay", sans-serif;
+  font-family: "Myanmar-Khyay", sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 21px;
@@ -169,7 +172,7 @@ header .banner .wrapper .nav-button {
   margin-left: 20px;
 }
 header .banner .wrapper .nav-button button {
-  font-family: "Khyay", sans-serif;
+  font-family: "Myanmar-Khyay", sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -480,6 +483,10 @@ main .playlists .wrapper .music img {
   border-radius: 10px;
   box-shadow: 0px 0px 25px #615aba;
 }
+main .playlists .wrapper .music img:hover {
+  border: solid 2px #6c66b3;
+  transition: 0.2s;
+}
 main .playlists .wrapper .music img:active {
   border: solid 3px #615aba;
   box-shadow: 0px 0px 40px #615aba;
@@ -726,7 +733,7 @@ footer .network .wrapper .twitter:hover path {
   align-items: center;
 }
 .menu nav ul .nav-button button {
-  font-family: "Khyay", sans-serif;
+  font-family: "Myanmar-Khyay", sans-serif;
   margin-top: 60px;
   font-weight: 400;
   font-size: 20px;

@@ -470,6 +470,17 @@ main{
                   margin-top: -4px;
                   margin-right: 20px;
                }
+
+               &:hover{
+                  background: linear-gradient(45deg, #03001e, #7303c0,#ec38bc, #fdeff9);
+                  -webkit-background-clip: text;
+                  -webkit-text-fill-color: transparent;
+                  animation: gradient 10s ease infinite;
+                  background-size: 600% 600%;
+                  font-size: 34px;
+                  -webkit-text-stroke: 1px rgb(105, 25, 185);
+                  transition: 1.5s;
+               }
             }
          }
          
@@ -532,6 +543,18 @@ main{
             svg{
                margin-top: -4px;
                margin-right: 20px;
+            }
+            
+
+            &:hover{
+               background: linear-gradient(45deg, #03001e, #7303c0,#ec38bc, #fdeff9);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               animation: gradient 10s ease infinite;
+               background-size: 600% 600%;
+               font-size: 34px;
+               -webkit-text-stroke: 1px rgb(105, 25, 185);
+               transition: 1.5s;
             }
          }
       }

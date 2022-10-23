@@ -104,11 +104,18 @@ main .playlists .wrapper .playlists-info a {
    font-size: 18px;
    line-height: 18px;
    transition: 2s;
+   &:hover{
+      font-size: 25px;
+   }
 }
 main .love .wrapper .wrapper-love a {
    font-size: 18px;
    line-height: 18px;
    transition: 2s;
+
+   &:hover{
+      font-size: 25px;
+   }
 }
 main .questions .wrapper {
    width: 1100px;
@@ -349,6 +356,9 @@ main .love .wrapper .wrapper-love a {
    font-size: 14px;
    line-height: 18px;
    transition: 2s;
+   &:hover{
+      font-size: 16px;
+   }
 }
 main .love .wrapper .wrapper-love a svg {
    margin-right: 7px;
@@ -374,6 +384,9 @@ main .playlists .wrapper .playlists-info a {
    font-size: 14px;
    line-height: 18px;
    transition: 2s;
+   &:hover{
+      font-size: 16px;
+   }
 }
 main .playlists .wrapper .playlists-info a svg {
    margin-right: 7px;

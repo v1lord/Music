@@ -3,41 +3,53 @@
 
 footer .info .lists {
    width: 750px;
+   transition: 2s;
 }
 main .playlists .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 main .playlists .wrapper .music {
    width: 650px;
+   transition: 2s;
 }
 main .questions .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 main .questions .you-questions {
    width: 1300px;
    margin: 0 auto;
    padding-left: 30px;
+   transition: 2s;
 }
 main .questions h2 {
    margin-left: 32px;
+   transition: 2s;
 }
 footer .info .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love {
    width: 40%;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 main .brands .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 header .banner .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 header .hello .wrapper {
    width: 1300px;
+   transition: 2s;
 }
 }
 
@@ -45,92 +57,115 @@ header .hello .wrapper {
 
    header .banner .wrapper {
       width: 1100px;
+      transition: 2s;
 }
 header .hello .wrapper {
    width: 1100px;
+   transition: 2s;
 }
 main .brands .wrapper {
    width: 1100px;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 1100px;
+   transition: 2s;
 }
 
 main .love .wrapper .wrapper-love p {
    font-size: 18px;
    line-height: 22px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love h2 {
    font-size: 34px;
    line-height: 45px;
-
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love {
    padding: 0 30px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info {
    width: 380px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info h2 {
    font-size: 34px;
    line-height: 45px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info p {
    font-size: 18px;
    line-height: 22px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info a {
    font-size: 18px;
    line-height: 18px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love a {
    font-size: 18px;
    line-height: 18px;
+   transition: 2s;
 }
 main .questions .wrapper {
    width: 1100px;
+   transition: 2s;
 }
 main .questions h2 {
    font-size: 34px;
+   transition: 2s;
 }
 main .questions p {
    font-size: 18px;
    line-height: 22px;
+   transition: 2s;
 }
 main .questions h3 {
    font-size: 26px;
    line-height: 28px;
+   transition: 2s;
 }
 main .questions .you-questions-one, main .questions .you-questions-two, main .questions .you-questions-three, main .questions .you-questions-four {
    width: 450px;
+   transition: 2s;
 }
 main .questions .you-questions {
    width: 1100px;
+   transition: 2s;
 }
 footer .info .radiohead {
    width: 300px;
+   transition: 2s;
 }
 footer .info .radiohead p {
    font-size: 14px;
    line-height: 18px;
    width: 300px;
+   transition: 2s;
 }
 footer .info li {
    font-size: 14px;
    line-height: 18px;
    margin-bottom: 18px;
+   transition: 2s;
 }
 footer .info h4 {
    font-size: 26px;
    line-height: 30px;
    margin: 40px auto 27px;
+   transition: 2s;
 }
 footer .info .wrapper {
    width: 1100px;
 height: 350px;
+transition: 2s;
 }
 main .playlists .wrapper {
    width: 1100px;
+   transition: 2s;
 }
 
 }
@@ -142,34 +177,43 @@ main .playlists .wrapper {
    }
    header .banner .wrapper {
       height: 60px;
+      transition: 2s;
    }
    header .main .unit {
       width: 470px;
       margin: 0 auto;
+      transition: 2s;
    }
    .menu {
       display: block;
+      transition: 2s;
    }
    .menu nav {
       min-height:53.5em;
+      transition: 2s;
    }
    }
 
 @media (max-width: 1115px){
    header .banner .wrapper {
       width: 950px;
+      transition: 2s;
 }
 header .hello .wrapper {
    width: 950px;
+   transition: 2s;
 }
 main .brands .wrapper {
    width: 950px;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 950px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img img {
    width: 200px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img {
    margin: 30px auto;
@@ -177,37 +221,47 @@ main .love .wrapper .wrapper-img {
    width: 50%;
    width: 660px;
    height: 430px;
+   transition: 2s;
 }
 main .love {
    height: 500px;
+   transition: 2s;
 }
 main .playlists .wrapper {
    width: 950px;
    height: 500px;
+   transition: 2s;
 }
 main .playlists .wrapper .music img {
    width: 200px;
    height: 330px;
+   transition: 2s;
 }
 main .playlists .wrapper .music {
    width: 500px;
+   transition: 2s;
 }
 main .questions .you-questions {
    width: 950px;
+   transition: 2s;
 }
 main .questions .wrapper {
    width: 950px;
    height: 500px;
+   transition: 2s;
 }
 main .questions h2 {
    margin-bottom: 20px;
+   transition: 2s;
 }
 footer .info .wrapper {
    width: 950px;
    height: 320px;
+   transition: 2s;
 }
 main .questions h3 .left {
    height: 30px;
+   transition: 2s;
 }
 
 
@@ -219,10 +273,12 @@ main .questions h3 .left {
 }
 header .banner .wrapper {
    height: 60px;
+   transition: 2s;
 }
 header .main .unit {
    width: 470px;
    margin: 0 auto;
+   transition: 2s;
 }
 .menu {
    display: block;
@@ -230,14 +286,17 @@ header .main .unit {
 header .hello .wrapper {
    width: 700px;
    margin:  0 auto;
+   transition: 2s;
 }
 header .hello .wrapper .info {
    width: 510px;
    margin: 120px auto 0;
+   transition: 2s;
 }
 header .hello .wrapper .info h2 {
    font-size: 38px;
    line-height: 45px;
+   transition: 2s;
 }
 main .brands .wrapper {
    display: grid;
@@ -249,15 +308,19 @@ main .brands .wrapper {
    grid-column-gap: 30px;
    grid-row-gap: 10px;
    width: 600px;
+   transition: 2s;
 }
 main .brands {
    height: 170px;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 700px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img img {
    width: 150px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img {
    margin: 50px auto;
@@ -265,99 +328,124 @@ main .love .wrapper .wrapper-img {
    width: 50%;
    width: 510px;
    height: 300px;
+   transition: 2s;
 }
 main .love {
    height: 450px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love h2 {
    font-size: 26px;
    line-height: 35px;
    margin-bottom: 15px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love p {
    font-size: 14px;
    line-height: 18px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love a {
    font-size: 14px;
    line-height: 18px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love a svg {
    margin-right: 7px;
+   transition: 2s;
 }
 main .playlists .wrapper {
    width: 700px;
    height: 450px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info h2 {
    font-size: 26px;
    line-height: 35px;
    margin-bottom: 30px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info p {
    font-size: 14px;
    line-height: 18px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info a {
    font-size: 14px;
    line-height: 18px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info a svg {
    margin-right: 7px;
+   transition: 2s;
 }
 main .playlists .wrapper .music img {
    width: 160px;
    height: 264px;
+   transition: 2s;
 }
 main .playlists .wrapper .music {
    width: 390px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info {
    width: 250px;
+   transition: 2s;
 }
 main .questions .wrapper {
    width: 700px;
    height: 450px;
+   transition: 2s;
 }
 main .questions .you-questions {
    width: 700px;
+   transition: 2s;
 }
 main .questions h3 {
    font-size: 20px;
    line-height: 22px;
    margin-bottom: 15px;
+   transition: 2s;
 }
 main .questions p {
    font-size: 14px;
    line-height: 18px;
+   transition: 2s;
 }
 main .questions .you-questions-one, main .questions .you-questions-two, main .questions .you-questions-three, main .questions .you-questions-four {
    width: 300px;
+   transition: 2s;
 }
 main .questions h2 {
    font-size: 26px;
    line-height: 35px;
    margin-bottom: 30px;
+   transition: 2s;
 }
 footer .info .wrapper {
    width: 700px;
+   transition: 2s;
 }
 footer .info .radiohead p {
    font-size: 12px;
    line-height: 15px;
    width: 250px;
+   transition: 2s;
 }
 footer .info h4 {
    font-size: 20px;
    line-height: 24px;
    margin: 40px auto 27px;
+   transition: 2s;
 }
 footer .info li {
    font-size: 12px;
    line-height: 14px;
+   transition: 2s;
 }
 header .banner .wrapper {
    width: 700px;
+   transition: 2s;
 }
 header {
    height: 600px;
@@ -366,19 +454,23 @@ header {
 footer .info .radiohead-icon {
    margin: 28px 0 25px 10px;
    width: 150px;
+   transition: 2s;
 }
 .menu nav {
    min-height: 39.5em;
+   transition: 2s;
 }
 }
 
 @media (max-width: 715px){
 header .banner .wrapper {
    width: 450px;
+   transition: 2s;
 }
 header .hello .wrapper .info {
    width: 450px;
    margin: 120px auto 0;
+   transition: 2s;
 }
 main .brands .wrapper {
    display: grid;
@@ -390,91 +482,113 @@ main .brands .wrapper {
    grid-column-gap: 40px;
    grid-row-gap: 0px;
    width: 450px;
+   transition: 2s;
 }
 .playstation{
    width: 110px;
+   transition: 2s;
 }
 .blackberry{
    width: 120px;
+   transition: 2s;
 }
 .redbull{
    width: 80px;
+   transition: 2s;
 }
 .tiktok{
    width: 80px;
+   transition: 2s;
 }
 .sennhiser{
    width: 120px;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 450px;
    display: flex;
    flex-direction: column;
+   transition: 2s;
 }
 main .love {
    height: 600px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love {
    margin: 0 auto;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love h2 {
    margin-top: 10px;
    width: 280px;
    margin-left: -65px; ////////////переделать/////////////
    // text-align: center;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love p {
    width: 400px;
    margin-bottom: 15px;
    text-align: center;
    margin-left: -120px; ////////////переделать/////////////
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love a {
    width: 200px;
    margin-left: 0px;  ////////////переделать/////////////
+   transition: 2s;
 }
 main .playlists .wrapper {
    width: 450px;
    display: flex;
    flex-direction: column;
    height: 600px;
+   transition: 2s;
 }
 
 main .playlists .wrapper h2 {
    margin-top: 10px;
    width: 400px;
    text-align: center;
+   transition: 2s;
 }
 main .playlists .wrapper p {
    width: 400px;
    margin-bottom: 15px;
    text-align: center;
    margin-left: -65px; ////////////переделать/////////////
+   transition: 2s;
 }
 main .playlists .wrapper a {
    width: 400px;
    margin-left: 50px;  ////////////переделать/////////////
+   transition: 2s;
 }
 
 main .questions .wrapper {
    width: 450px;
    height: 450px;
+   transition: 2s;
 }
 main .questions h2 {
    text-align: center;
+   transition: 2s;
 }
 main .questions .you-questions {
    width: 450px;
    padding-left: 0px;
+   transition: 2s;
 }
 main .questions .you-questions-one, main .questions .you-questions-two, main .questions .you-questions-three, main .questions .you-questions-four {
    width: 220px;
+   transition: 2s;
 }
 main .questions p {
    text-align: center;
+   transition: 2s;
 }
 main .questions h3 {
    text-align: center;
+   transition: 2s;
 }
 main .questions h3 .left {
    display: none;
@@ -484,56 +598,70 @@ footer .info .wrapper {
    display: flex;
    flex-direction: column;
    height: 400px;
+   transition: 2s;
 }
 footer .info .radiohead {
    width: 300px;
    margin: 0 auto;
    text-align: center;
+   transition: 2s;
 }
 footer .info .radiohead p {
    text-align: center;
    width: 300px;
+   transition: 2s;
 }
 footer .info .radiohead-icon {
    margin: 30px auto 20px;
    width: 150px;
+   transition: 2s;
 }
 footer .info .lists {
    width: 450px;
+   transition: 2s;
 }
 footer .info h4 {
    margin: 20px auto 23px;
    text-align: center;
+   transition: 2s;
 }
 footer .info li {
    text-align: center;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info h2 {
    text-align: center;
    padding-right: 0;
    margin-left: -40px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img {
    margin: 30px auto;
    width: 450px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img img {
    width: 130px;
+   transition: 2s;
 }
 main .love {
    height: 540px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info a {
    width: 200px;
    text-align: center;
    justify-content: center;
    padding-left: 25px;
+   transition: 2s;
 }
 header .hello .wrapper {
    width: 450px;
+   transition: 2s;
 }
 header .hello .wrapper .info h2 {
    text-align: center;
+   transition: 2s;
 }
 header .hello .wrapper .free {
    width: 340px;
@@ -545,15 +673,18 @@ header .hello .wrapper .free {
       "two three ";
    align-items: center;
 margin: 0 auto;
+transition: 2s;
 }
 header .hello .wrapper .free .one {
    width: 340px;
    height: 55px;
    margin-bottom: 25px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info {
    width: 330px;
    margin: 0 auto;
+   transition: 2s;
 }
 
 
@@ -570,93 +701,117 @@ main .playlists .wrapper .playlists-info {
 @media (max-width: 475px){
    header .banner .wrapper {
       width: 350px;
+      transition: 2s;
 }
 header .hello .wrapper .info {
    width: 350px;
    margin: -20px auto 0;
+   transition: 2s;
 }
 header .hello .wrapper {
    width: 350px;
+   transition: 2s;
 }
 main .brands .wrapper {
    width: 350px;
    height: 120px;
+   transition: 2s;
 }
 .playstation {
    width: 80px;
+   transition: 2s;
 }
 .blackberry {
    width: 80px;
+   transition: 2s;
 }
 .redbull {
    width: 50px;
+   transition: 2s;
 }
 .tiktok {
    width: 50px;
+   transition: 2s;
 }
 .sennhiser {
    width: 85px;
+   transition: 2s;
 }
 main .brands {
    height: 120px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img {
    margin: 30px auto;
    width: 350px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img {
    grid-template-areas:
       "one two"
       "three four"
       "five six";
+      transition: 2s;
 }
 main .love {
    height: 700px;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 350px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love {
    margin: 160px auto 0;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love h2 {
    margin-left: -85px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love p {
    width: 350px;
    margin-left: -135px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love a {
    margin-left: -30px;
+   transition: 2s;
 }
 main .playlists .wrapper .music {
    width: 160px;
    display: flex;
    flex-direction: column;
    justify-content: center;
+   transition: 2s;
 }
 main .playlists .wrapper {
    width: 350px;
    display: flex;
    flex-direction: column;
    height: 860px;
+   transition: 2s;
 }
 main .playlists .wrapper .music img {
    margin-bottom: 40px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info p {
    width: 330px;
    margin: 0 auto;
+   transition: 2s;
 }///////////////////////////////////////////////////////////////////////////
 main .playlists .wrapper .playlists-info h2 {
    width: 330px;
    margin: 0 auto;
    margin-bottom: 15px;
+   transition: 2s;
 }///////////////////////////////////////////////////////////////////////////
 main .questions .wrapper {
    width: 250px;
    height: 850px;
    margin: 0 auto;
+   transition: 2s;
 }
 main .questions .you-questions {
    display: grid;
@@ -670,11 +825,13 @@ main .questions .you-questions {
    width: 250px;
    justify-content: center;
    margin: 0 auto;
+   transition: 2s;
 }
 footer .info .wrapper {
    width: 350px;
    height: 600px;
    justify-content: start;
+   transition: 2s;
 }
 footer .info .lists {
    display: grid;
@@ -683,10 +840,12 @@ footer .info .lists {
       "three four";
    width: 250px;
    margin: 0 auto;
+   transition: 2s;
 }
 
 .menu nav {
    min-height:36.8em;
+   transition: 2s;
 }
 
 
@@ -710,40 +869,49 @@ header .hello .wrapper .info h2 {
    width: 300px;
    font-size: 33px;
    line-height: 35px;
+   transition: 2s;
 }
 header .hello .wrapper .free {
    width: 300px;
    margin: 0 auto;
+   transition: 2s;
 }
 header .hello .wrapper .free .one {
    width: 300px;
    height: 55px;
    margin-bottom: 25px;
+   transition: 2s;
 }
 main .brands .wrapper {
    width: 300px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-img {
    width: 300px;
+   transition: 2s;
 }
 main .love .wrapper {
    width: 300px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love h2 {
    font-size: 22px;
    line-height: 28px;
+   transition: 2s;
 }
 main .love .wrapper .wrapper-love p {
    font-size: 12px;
    line-height: 14px;
    width: 300px;
    margin-left: -120px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info h2 {
    width: 300px;
    font-size: 22px;
    line-height: 28px;
    margin-left: 0px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info p {
    width: 300px;
@@ -751,12 +919,15 @@ main .playlists .wrapper .playlists-info p {
    line-height: 14px;
    margin-left: 0px;
    margin-bottom: 15px;
+   transition: 2s;
 }
 main .playlists .wrapper {
    width: 300px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info a {
    padding-left: 0px;
+   transition: 2s;
 }
 main .questions h2 {
    width: 300px;
@@ -764,52 +935,66 @@ main .questions h2 {
    line-height: 28px;
    margin-left: -20px;
    margin-bottom: 70px;
+   transition: 2s;
 }
 main .questions .wrapper {
    height: 750px;
+   transition: 2s;
 }
 header .hello .wrapper .info {
    width: 300px;
    display: flex;
    flex-direction: column;
+   transition: 2s;
 }
 header .hello .wrapper .free .one {
    width: 290px;
+   transition: 2s;
 }
 header .hello .wrapper .free {
    width: 290px;
    margin: 0 auto;
+   transition: 2s;
 }
 header .hello .wrapper .free .three {
    width: 140px;
+   transition: 2s;
 }
 header .hello .wrapper .free .two {
    width: 130px;
+   transition: 2s;
 }
 
 footer .info .radiohead {
    width: 290px;
    margin-left: 5px;
+   transition: 2s;
 }
 footer .info .wrapper {
    width: 300px;
+   transition: 2s;
 }
 main .playlists .wrapper .playlists-info {
    width: 300px;
+   transition: 2s;
 }
 header .hello .wrapper {
    width: 300px;
+   transition: 2s;
 }
 header .banner .wrapper .banner__logo .logo__two svg {
    width: 180px;
    margin-left: 10px;
+   transition: 2s;
 }
 header .banner .wrapper .banner__logo .my__logo svg {
    width: 180px;
    margin-left: 10px;
+   transition: 2s;
 }
 header .banner .wrapper {
    width: 280px;
+   transition: 2s;
 }
 
 

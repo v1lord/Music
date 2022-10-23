@@ -197,8 +197,11 @@ background-attachment: scroll;
                color: #7971E9;
                transition:  box-shadow 0.3s;
                &:hover{
-                  box-shadow: 0px 0px 17px #7971E9;
-                  transition: 0.7s
+                  box-shadow: 0px 0px 25px #7971E9;
+                  transition: 0.7s;
+                  background-color: #2C5364;
+                  font-size: 25px;
+                  border: solid 1px #7971E9;
                }
             }
             .sing__in{
@@ -279,8 +282,11 @@ header{
             background-color: #7971E9;
             color: #ffffff;
             &:hover{
-               box-shadow: 0px 0px 17px #7971E9;
-               transition: 0.7s
+               box-shadow: 0px 0px 25px #7971E9;
+               transition: 0.7s;
+               background-color: #2C5364;
+               font-size: 25px;
+               border: solid 1px #7971E9;
             }
          }
 
@@ -944,8 +950,11 @@ footer{
          background: rgba(0,0,0,0);
          color: #7971E9;
          &:hover{
-            box-shadow: 0px 0px 17px #7971E9;
-            transition: 0.7s
+            box-shadow: 0px 0px 25px #7971E9;
+            transition: 0.7s;
+            background-color: #2C5364;
+            font-size: 25px;
+            border: solid 1px #7971E9;
          }
       }
       .sing__in{

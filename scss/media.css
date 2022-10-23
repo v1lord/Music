@@ -127,6 +127,24 @@
     width: 1100px;
   }
 }
+@media (max-width: 1150px) {
+  .banner__nav {
+    display: none !important;
+  }
+  header .banner .wrapper {
+    height: 60px;
+  }
+  header .main .unit {
+    width: 470px;
+    margin: 0 auto;
+  }
+  .menu {
+    display: block;
+  }
+  .menu nav {
+    min-height: 53.5em;
+  }
+}
 @media (max-width: 1115px) {
   header .banner .wrapper {
     width: 950px;
@@ -333,6 +351,9 @@
   footer .info .radiohead-icon {
     margin: 28px 0 25px 10px;
     width: 150px;
+  }
+  .menu nav {
+    min-height: 39.5em;
   }
 }
 @media (max-width: 715px) {
@@ -618,6 +639,9 @@
     grid-template-areas: "one two" "three four";
     width: 250px;
     margin: 0 auto;
+  }
+  .menu nav {
+    min-height: 36.8em;
   }
 }
 @media (max-width: 365px) {
